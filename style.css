@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 65px;
+}
+body{
+    font-family: 'Arima Madurai', cursive;
+    
+}
+.text-highlight{
+    color: rgb(4, 255, 150);
+}
+.width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: auto;
+}
+.width img{
+    width: 100%;
+}
+.hirebtn{
+    width: 120px;
+    color: rgb(0, 0, 0);
+    font-family: 'Arima Madurai', cursive; 
+    background-color: rgb(19, 253, 183);
+    border-radius: 30px;
+}
